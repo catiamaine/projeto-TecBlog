@@ -25,7 +25,7 @@ Ele simula um blog com postagens, menu de navegação, barra lateral com categor
 ## 💻 Acesse o projeto online
 
 Veja o projeto publicado no GitHub Pages:  
-🔗 
+🔗[https://catiamaine.github.io/projeto-TecBlog/](https://catiamaine.github.io/projeto-TecBlog/)
 
 ---
 
@@ -37,3 +37,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, criando projetos práti
 📧 **E-mail:** catia_maine@hotmail.com
 
 ---
+Criado por [Catia Maine](https://github.com/catiamaine)
